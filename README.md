@@ -7,7 +7,7 @@
 
 ## 🚀 About
 
-**Marketing Classification Models** Machine learning project aimed at classifying and predicting defaulters based on a dictionary. Three models were tested in this project: decision tree, dummy, and KNN (with 5 neighbors).
+**Marketing Classification Models** Machine learning project aimed at classifying and predicting investiment intent based on a dictionary. Three models were tested in this project: decision tree, dummy, and KNN (with 5 neighbors).
 
 ## 📝 How to Use
 
