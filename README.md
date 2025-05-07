@@ -4,26 +4,24 @@
 - [About](#-about)
 - [How to Use](#-how-to-use)
 - [Contacts](#%EF%B8%8F-contacts)
-
 ## 🚀 About
 
-**Marketing Classification Models** Machine learning project aimed at classifying and predicting investiment intent based on a dictionary. Three models were tested in this project: decision tree, dummy, and KNN (with 5 neighbors).
-
+**Marketing Classification Models** is a machine learning project aimed at classifying and predicting investment intent based on customer data. Three models were tested in this project: decision tree, dummy, and KNN (with 5 neighbors).
 ## 📝 How to Use
 
 To use the notebook, follow these steps:
 
 ```shell
-# Import the notebook ipynb
+# 1. Import the notebook (ipynb) into your environment
 
-# Upload your database, ensure the normalize process were done 
+# 2. Load your dataset (CSV format), ensuring that the data normalization process is done for numerical features
 
-# Get the prediction subject as a dictionary
+# 3. Define the prediction input as a dictionary (the data for prediction should be in a similar format to the dataset)
 
-# Run the predict and check
+# 4. Run the model prediction (using the trained models: Dummy, Decision Tree, or KNN)
+#    The model will predict based on the new data, and you can check the results
+
 ```
 ## 🗨️ Contacts
 
-- **Email**: 
-
-[Back to top](#top)
+- **Email**: vsennamart@gmail.com
