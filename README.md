@@ -18,8 +18,7 @@ To use the notebook, follow these steps:
 
 # 3. Define the prediction input as a dictionary (the data for prediction should be in a similar format to the dataset)
 
-# 4. Run the model prediction (using the trained models: Dummy, Decision Tree, or KNN)
-#    The model will predict based on the new data, and you can check the results
+# 4. Run the model prediction (using the trained models: Dummy, Decision Tree, or KNN). The model will predict based on the new data, and you can check the results
 
 ```
 ## 🗨️ Contacts
