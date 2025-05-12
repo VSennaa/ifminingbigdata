@@ -1,6 +1,6 @@
 <a name="top"></a>
 # Marketing Classification Models - KNN, Tree and Dummy 
-## Table of Contents
+## 📋 Table of Contents
 - [About](#-about)
 - [How to Use](#-how-to-use)
 - [Contacts](#%EF%B8%8F-contacts)
